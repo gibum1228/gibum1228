@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&animation=blinking&color=gradient&height=200&section=header&text=Hi,%20I'm%20Horaeng&fontSize=50&fontColor=FFFFFF&fontAlign=73&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&animation=blinking&color=A9BCF5&height=200&section=header&text=Hi,%20I'm%20Horaeng&fontSize=50&fontColor=FFFFFF&fontAlign=73&fontAlignY=35)
             
 <h3 align="center">Today:+1:</h3>
 
@@ -15,4 +15,4 @@
 <img src="https://img.shields.io/badge/Spring Boot-brightgreen?style=flat-square&logo=Spring&logoColor=white"/></a>
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=A9BCF5)
