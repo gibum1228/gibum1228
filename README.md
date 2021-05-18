@@ -35,4 +35,14 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=round-square&logo=CSS3&logoColor=white"/></a>
 </div>
 
+<br><br>
+
+<div align="center" display="inline">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gibum1228&custom_title=기범's&count_private=true&show_icons=true&theme=gradient&disable_animations=false&bg_color=2E64FE,5882FA,819FF7,A9BCF5&hide=stars,contribs&title_color=EEEEEE&text_color=DDDDDD&icon_color=DDDDDD&border_radius=15)
+
+</div>
+
+<br><br>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=A9BCF5)
