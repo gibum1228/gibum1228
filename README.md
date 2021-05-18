@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=A9BCF5&height=200&section=header&text=Hi,%20I'm%20Horaeng&fontSize=50&fontColor=FFFFFF&fontAlign=73&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=A9BCF5&height=200&section=header&text=Hi,%20I'm%20호랭&fontSize=50&fontColor=FFFFFF&fontAlign=73&fontAlignY=35)
             
 <h3 align="center">Today:+1:</h3>
 
