@@ -39,7 +39,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gibum1228&custom_title=호랭's&count_private=true&show_icons=true&theme=gradient&disable_animations=false&bg_color=2E64FE,5882FA,819FF7,A9BCF5&hide=stars,contribs&title_color=EEEEEE&text_color=DDDDDD&icon_color=DDDDDD&border_radius=15)
 
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=gibum1228)
+<!-- ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=gibum1228) -->
 
 </div>
 
