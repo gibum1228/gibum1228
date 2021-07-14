@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=round-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=round-square&logo=Windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=round-square&logo=Ubuntu&logoColor=white"/>
-<img src="https://img.shields.io/badge/macOS-FFFFFF?style=round-square&logo=macOS&logoColor=black"/>
+<img src="https://img.shields.io/badge/macOS-FFFFFF?style=round-square&logo=Apple&logoColor=black"/>
 </div>
 
 <br><br>
