@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=round-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=round-square&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=round-square&logo=Windows&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Windows-0078D6?style=round-square&logo=Windows&logoColor=white"/> -->
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=round-square&logo=Ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/macOS-FFFFFF?style=round-square&logo=Apple&logoColor=black"/>
 </div>
@@ -34,7 +34,6 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=round-square&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=round-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache-D22128?style=round-square&logo=Apache&logoColor=black"/>
-<img src="https://img.shields.io/badge/Apache Maven-C71A36?style=round-square&logo=Apache-Maven&logoColor=black"/>
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=round-square&logo=Apache-Tomcat&logoColor=black"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=round-square&logo=Slack&logoColor=white"/>
 </div>
