@@ -5,7 +5,11 @@
 
 <br><br>
 
-<h3 align="center">Main Stack:wrench:</h3>
+<div align="center">
+<a href="https://developnote.tistory.com/"><img src="https://img.shields.io/badge/My Blog-FF6600?style=round-square&logo=Blogger&logoColor=white"/></a>
+</div>
+
+<!-- <h3 align="center">Main Stack:wrench:</h3>
 
 <div align="center">
 <img src="https://img.shields.io/badge/Spring Boot-brightgreen?style=round-square&logo=Spring&logoColor=white"/>
@@ -14,14 +18,14 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=round-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=round-square&logo=Git&logoColor=white"/>
-<!-- <img src="https://img.shields.io/badge/Windows-0078D6?style=round-square&logo=Windows&logoColor=white"/> -->
+<img src="https://img.shields.io/badge/Windows-0078D6?style=round-square&logo=Windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=round-square&logo=Ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/macOS-FFFFFF?style=round-square&logo=Apple&logoColor=black"/>
-</div>
+</div> -->
 
 <br><br>
 
-<h3 align="center">Experience:books:</h3>
+<!-- <h3 align="center">Experience:books:</h3>
 
 <div align="center">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=round-square&logo=Android&logoColor=black"/>
@@ -36,7 +40,7 @@
 <img src="https://img.shields.io/badge/Apache-D22128?style=round-square&logo=Apache&logoColor=black"/>
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=round-square&logo=Apache-Tomcat&logoColor=black"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=round-square&logo=Slack&logoColor=white"/>
-</div>
+</div> -->
 
 <br><br>
 
