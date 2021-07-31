@@ -1,10 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=A9BCF5&height=200&section=header&text=Hi,%20I'm%20Horaeng&fontSize=50&fontColor=FFFFFF&fontAlign=73&fontAlignY=35)
             
 <h3 align="center">Welcome:+1:</h3>
-
-
-<br><br>
-
 <div align="center">
 <a href="https://developnote.tistory.com/"><img src="https://img.shields.io/badge/My Blog-FF6600?style=round-square&logo=Blogger&logoColor=white"/></a>
 </div>
@@ -23,7 +19,7 @@
 <img src="https://img.shields.io/badge/macOS-FFFFFF?style=round-square&logo=Apple&logoColor=black"/>
 </div> -->
 
-<br><br>
+<br>
 
 <!-- <h3 align="center">Experience:books:</h3>
 
@@ -42,7 +38,7 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=round-square&logo=Slack&logoColor=white"/>
 </div> -->
 
-<br><br>
+<br>
 
 <div align="center" display="inline">
 
@@ -50,6 +46,8 @@
             
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gibum1228&custom_title=호랭's&count_private=true&show_icons=true&theme=gradient&disable_animations=false&bg_color=2E64FE,5882FA,819FF7,A9BCF5&hide=stars,contribs&title_color=EEEEEE&text_color=DDDDDD&icon_color=DDDDDD&border_radius=15)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gibum1228)](https://solved.ac/gibum1228/)
+            
 <!-- ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=gibum1228) -->
 
 </div>
