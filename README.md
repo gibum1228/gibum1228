@@ -2,7 +2,7 @@
             
 <h3 align="center">It's Me:+1:</h3>
 <div align="center">
-My Blog: <a href="https://developnote.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF6600?style=round-square&logo=Blogger&logoColor=white"/></a><br>
+My Tech Blog: <a href="https://developnote.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF6600?style=round-square&logo=Blogger&logoColor=white"/></a><br>
 My Career: <a href="https://www.notion.so/I-m-Horaeng-845d9aed48094697b9c71e521e45eb36"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=round-square&logo=Notion&logoColor=black"/></a>
 </div>
 
