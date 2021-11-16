@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=A9BCF5&height=200&section=header&text=Hi,%20I'm%20Horaeng&fontSize=50&fontColor=FFFFFF&fontAlign=73&fontAlignY=35)
             
-<h3 align="center">It's Me:+1:</h3>
-<div align="center">
+<h3>It's Me:+1:</h3>
+<div>
 My Tech Blog: <a href="https://developnote.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF6600?style=round-square&logo=Blogger&logoColor=white"/></a><br>
 My Career: <a href="https://horaeng.notion.site/845d9aed48094697b9c71e521e45eb36"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=round-square&logo=Notion&logoColor=black"/></a>
 </div>
@@ -41,9 +41,9 @@ My Career: <a href="https://horaeng.notion.site/845d9aed48094697b9c71e521e45eb36
 
 <br>
 
-<div align="center" display="inline">
+<div display="inline">
 
-<h3 algin="center">My Baekjoon:books:</h3>
+<h3>My Baekjoon:books:</h3>
             
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gibum1228&custom_title=호랭's&count_private=true&show_icons=true&theme=gradient&disable_animations=false&bg_color=2E64FE,5882FA,819FF7,A9BCF5&hide=stars,contribs&title_color=EEEEEE&text_color=DDDDDD&icon_color=DDDDDD&border_radius=15) -->
 
