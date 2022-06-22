@@ -4,7 +4,7 @@ Hi, my name is Kim Gi Beom.
 I earned a bachelor's degree from Sungkonghoe University in Korea and majored in computer engineering and software engineering.  
 I am interested in <u>computer vision</u> and I was an undergraduate intern at the AI Convergence Laboratory at SKHU.  
 I wrote a paper in IPIU 2022 and the subject was experimented to solve communication problems between deaf and non-disabled people through sign language recognition in an online video conference program. If you are curious about other projects, please refer to the resume in the <u>link table</u>.  
-If you are interested in me, please contact me through email(gibum1228@gmail.com).
+If you are interested in me, please contact me through email.
 <br>
 <h3>link table🔗</h3>
 
