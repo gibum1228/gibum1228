@@ -1,17 +1,17 @@
 <h1>Who am I?</h1>
 
 Hi, my name is Kim Gi Beom.  
-I earned a bachelor's degree from Sungkonghoe University in Korea and majored in computer engineering and software engineering.  
-I am interested in <u>computer vision</u> and I was an undergraduate intern at the AI Convergence Laboratory at SKHU.  
-I wrote a paper in IPIU 2022 and the subject was experimented to solve communication problems between deaf and non-disabled people through sign language recognition in an online video conference program. If you are curious about other projects, please refer to the resume in the <u>link table</u>.  
+I earned a bachelor's degree from *Sungkonghoe University* in Korea and majored in computer engineering and software engineering.  
+I'm interested in **computer vision** and I was an undergraduate intern at the AI Convergence Laboratory at *SKHU* for 1 years.  
+My paper was adopted in *IPIU 2022* and this was to solve the problem of online real-time communication between deaf and non-disabled people. Classifiers trained by deep learning translate sign language into English text. If you are curious about other projects, please refer to the resume in the **link table**.  
 If you are interested in me, please contact me through email.
 <br>
 <h3>link table🔗</h3>
 
 |Subject|link|
 |:--:|:--:|  
-|Blog|<a href="https://developnote.tistory.com/">link</a>|
-|resume|<a href="https://horaeng.notion.site/845d9aed48094697b9c71e521e45eb36">link</a>|
+|Blog|<a href="https://developnote.tistory.com/">click</a>|
+|resume|<a href="https://horaeng.notion.site/845d9aed48094697b9c71e521e45eb36">click</a>|
 
 <br>
 
