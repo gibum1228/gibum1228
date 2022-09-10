@@ -1,11 +1,9 @@
-<h1>Who am I?</h1>
-
+<h1>Hi:wave:</h1>
+   
 Hi, my name is Kim Gi Beom.  
 I earned a bachelor's degree from in Korea and majored in computer engineering and software engineering.  
-I'm interested in **computer vision** and I was an undergraduate intern at the AI Convergence Laboratory for 1 years.  
-My paper was adopted in *IPIU 2022* and this was to solve the problem of online real-time communication between deaf and non-disabled people. Classifiers trained by deep learning translate sign language into English text. If you are curious about other projects, please refer to the resume in the **link table**.  
-If you are interested in me, please contact me through email.
-<br>
+
+   
 <h3>link table🔗</h3>
 
 |Subject|link|
