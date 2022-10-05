@@ -1,15 +1,16 @@
 <h1>Hi:wave:</h1>
    
-Hi, my name is Kim Gi Beom.  
-I earned a bachelor's degree from in Korea and majored in computer engineering and software engineering.  
-
+Hi, My name is Kim, Gi-beom.  
+I received a bachelor's degree (summa cum laude) from *Sungkonghoe Univ.* in Korea and majored in computer engineering and software engineering.  
+If you are interested in me, click info in the link table.   
+   
    
 <h3>link table🔗</h3>
 
 |Subject|link|
 |:--:|:--:|  
-|Blog|<a href="https://developnote.tistory.com/">click</a>|
-|resume|<a href="https://horaeng.notion.site/845d9aed48094697b9c71e521e45eb36">click</a>|
+|blog|<a href="https://developnote.tistory.com/">click</a>|
+|info|<a href="https://horaeng.notion.site/845d9aed48094697b9c71e521e45eb36">click</a>|
 
 <br>
 
