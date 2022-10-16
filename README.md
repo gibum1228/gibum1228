@@ -9,7 +9,7 @@ If you are interested in me, click info in the link table.
 
 |Subject|link|
 |:--:|:--:|  
-|blog|<a href="https://developnote.tistory.com/">click</a>|
+|blog|<a href="https://velog.io/@beom3s">click</a>|
 |info|<a href="https://horaeng.notion.site/845d9aed48094697b9c71e521e45eb36">click</a>|
 
 <br>
