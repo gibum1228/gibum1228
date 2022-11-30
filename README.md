@@ -19,4 +19,10 @@ If you are interested in me, click info in the link table.
 
 solved.ac is a Korean algorithm practice site. I'm trying to write more efficient code by solving algorithm problems every day.
 
- <img src="http://mazandi.herokuapp.com/api?handle=gibum1228&theme=cold"/>
+<img src="http://mazandi.herokuapp.com/api?handle=gibum1228&theme=cold"/>
+
+<br>
+
+# Trophy:trophy:
+
+<img src="https://github-profile-trophy.vercel.app/?username=gibum1228&theme=juicyfresh&no-bg=true" />
