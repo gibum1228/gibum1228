@@ -25,4 +25,4 @@ solved.ac is a Korean algorithm practice site. I'm trying to write more efficien
 
 # Trophy:trophy:
 
-<img src="https://github-profile-trophy.vercel.app/?username=gibum1228&theme=juicyfresh&no-bg=true" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=gibum1228)](https://github.com/ryo-ma/github-profile-trophy)
