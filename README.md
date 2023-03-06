@@ -1,17 +1,16 @@
 <h1>Hi:wave:</h1>
    
-Hi, My name is Kim, Gi-beom.  
-I received a bachelor's degree (summa cum laude) from *Sungkonghoe Univ.* in Korea and majored in computer engineering and software engineering.  
-If you are interested in me, click info in the link table.   
+안녕하세요. 김기범입니다!<br>
+AI Engineer가 되기 위해 하루하루 열심히 지내고 있습니다.<br>
+저에 대해 호기심이 생겨 지금까지 어떤 과정을 겪고 성과를 이루어냈는지 궁금하시다면 아래 표에 있는 링크를 참고해주세요<br>
    
-   
-<h3>link table🔗</h3>
+<h3>바로가기 표🔗</h3>
 
-|Subject|link|
+|주제|link|
 |:--:|:--:|  
-|blog|<a href="https://gibum1228.github.io/">click</a>|
-|info|<a href="https://horaeng.notion.site/845d9aed48094697b9c71e521e45eb36">click</a>|
-|linkedIn|[click](https://www.linkedin.com/in/beom3s/)|
+|블로그|<a href="https://gibum1228.github.io/">click</a>|
+|커리어|<a href="https://horaeng.notion.site/845d9aed48094697b9c71e521e45eb36">click</a>|
+|링크드인|[click](https://www.linkedin.com/in/beom3s/)|
 
 <br>
 
