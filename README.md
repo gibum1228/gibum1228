@@ -1,8 +1,8 @@
 <h1>Hi:wave:</h1>
    
 안녕하세요. 김기범입니다!<br>
-AI Engineer가 되기 위해 하루하루 열심히 지내고 있습니다.<br>
-저에 대해 호기심이 생겨 지금까지 어떤 과정을 겪고 성과를 이루어냈는지 궁금하시다면 아래 표에 있는 링크를 참고해주세요<br>
+훌륭한 Engineer가 되기 위해 스스로 꾸준히 성장하고 있고 좋은 동료를 사귀고자 노력하고 있습니다.<br>
+밑에 [바로가기 표]를 통해 제가 지금까지 어떠한 활동을 했고 그 활동에서 어떤 성과를 냈는지 작성했으니 참고해주세요.<br>
    
 <h3>바로가기 표🔗</h3>
 
@@ -16,7 +16,7 @@ AI Engineer가 되기 위해 하루하루 열심히 지내고 있습니다.<br>
 
 <h1>solved.ac:books:</h1>
 
-solved.ac is a Korean algorithm practice site. I'm trying to write more efficient code by solving algorithm problems every day.
+효율적인 알고리즘으로 코드를 구현하기 위해 백준 사이트 정보를 잘 정리해둔 solved.ac 사이트를 통해 매일 알고리즘 문제를 풀고 있습니다.<br>
 
 <img src="http://mazandi.herokuapp.com/api?handle=gibum1228&theme=cold"/>
 
