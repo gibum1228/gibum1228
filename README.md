@@ -1,4 +1,4 @@
-# 1. 김기범 | Profile
+# 김기범 | Profile
    
 안녕하세요. 김기범입니다!✋<br>
 프로젝트, 수상, 활동 내역을 간단하게 적어두었지만 좀 더 상세한 정보는 [여기](https://horaeng.notion.site/845d9aed48094697b9c71e521e45eb36)에서 확인할 수 있습니다!😄<br>
@@ -25,3 +25,20 @@
 ## 2. 활동
    
 |활동명|시작|끝|
+|:--:|:--:|:--:|
+|네이버 AI Tech 부스트캠프|23년 3월||
+|부스트코스 코칭스터디 9기|23년 1월|23년 2월|
+|데이콘 데이크루 4기|23년 1월|23년 2월|
+|삼성 소프트웨어 개발자 커뮤니티|22년 11월||
+|빅리더 AI 아카데미|22년 6월|22년 8월|
+|성공회대학교 인공지능융합연구실 학부생 인턴|21년 1월|22년 5월|
+
+## 3. 프로젝트
+
+|프로젝트명|기술스택|
+|:--:|:--:|
+|상추 생육 환경 생성 AI 경진대회|`AutoML`, `CTGAN`, `Data: Tabular`, `Task: Regression`|
+|국립공원공단 협업 프로젝트|`Django`, `QGIS`, `Data: TimeSeries`, `Task: Regression`|
+|실시간 지문자 수어 인식 시스템|`Ubuntu`, `Tensorflow`, `OpenPose`, `MediaPipe`, `LeNet-5`, `Data: Image`, `Task: Classification`|
+|Air Alarm|`SwiftUI`, `Flask`, `SQLite3`, `STM32`, `Rasberry PI`|
+|A/S실 장비 대여 예약 웹 서비스|`Spring Boot`, `Spring Security`, `Mybatis`, `MySQL`, `Maven`, `Vue.js`|
