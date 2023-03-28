@@ -6,7 +6,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=gibum1228&row=1&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 목차
-[1. 수상](#1-수상) -> [2. 활동](#2-활동) -> [3. 프로젝트](#3-프로젝트)
+[1. 수상](#1-수상) > [2. 활동](#2-활동) > [3. 프로젝트](#3-프로젝트)
 
 ## 1. 수상
 
@@ -37,8 +37,8 @@
 
 |프로젝트명|기술스택|
 |:--:|:--:|
-|상추 생육 환경 생성 AI 경진대회|`AutoML`, `CTGAN`, `Data: Tabular`, `Task: Regression`|
-|국립공원공단 협업 프로젝트|`Django`, `QGIS`, `Data: TimeSeries`, `Task: Regression`|
-|실시간 지문자 수어 인식 시스템|`Ubuntu`, `Tensorflow`, `OpenPose`, `MediaPipe`, `LeNet-5`, `Data: Image`, `Task: Classification`|
+|상추 생육 환경<br>생성 AI 경진대회|`AutoML`, `CTGAN`, `Data: Tabular`, `Task: Regression`|
+|국립공원공단<br>협업 프로젝트|`Django`, `QGIS`, `Data: TimeSeries`, `Task: Regression`|
+|실시간 지문자 수어<br>인식 시스템|`Ubuntu`, `Tensorflow`, `OpenPose`, `MediaPipe`, `LeNet-5`, `Data: Image`, `Task: Classification`|
 |Air Alarm|`SwiftUI`, `Flask`, `SQLite3`, `STM32`, `Rasberry PI`|
-|A/S실 장비 대여 예약 웹 서비스|`Spring Boot`, `Spring Security`, `Mybatis`, `MySQL`, `Maven`, `Vue.js`|
+|A/S실 장비 대여 예약<br>웹 서비스|`Spring Boot`, `Spring Security`, `Mybatis`, `MySQL`, `Maven`, `Vue.js`|
