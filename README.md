@@ -1,27 +1,27 @@
-<h1>Hi:wave:</h1>
+# 1. 김기범 | Profile
    
-안녕하세요. 김기범입니다!<br>
-훌륭한 Engineer가 되기 위해 스스로 꾸준히 성장하고 있고 좋은 동료를 사귀고자 노력하고 있습니다.<br>
-밑에 [바로가기 표]를 통해 제가 지금까지 어떠한 활동을 했고 그 활동에서 어떤 성과를 냈는지 작성했으니 참고해주세요.<br>
-   
-<h3>바로가기 표🔗</h3>
-
-|주제|link|
-|:--:|:--:|  
-|블로그|<a href="https://gibum1228.github.io/">click</a>|
-|커리어|<a href="https://horaeng.notion.site/845d9aed48094697b9c71e521e45eb36">click</a>|
-|링크드인|[click](https://www.linkedin.com/in/beom3s/)|
-
-<br>
-
-<h1>solved.ac:books:</h1>
-
-효율적인 알고리즘으로 코드를 구현하기 위해 백준 사이트 정보를 잘 정리해둔 solved.ac 사이트를 통해 매일 알고리즘 문제를 풀고 있습니다.<br>
-
-<img src="http://mazandi.herokuapp.com/api?handle=gibum1228&theme=cold"/>
-
-<br>
-
-# Trophy:trophy:
+안녕하세요. 김기범입니다!✋<br>
+프로젝트, 수상, 활동 내역을 간단하게 적어두었지만 좀 더 상세한 정보는 [여기](https://horaeng.notion.site/845d9aed48094697b9c71e521e45eb36)에서 확인할 수 있습니다!😄<br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gibum1228&row=1&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 목차
+[1. 수상](#1-수상) -> [2. 활동](#2-활동) -> [3. 프로젝트](#3-프로젝트)
+
+## 1. 수상
+
+|상훈명|대회명|수여 기관|일시|
+|:--:|:--:|:--:|:--:|
+|최종 2위|상추의 생육 환경 생성 AI 경진대회|데이콘|22년 12월|
+|이사장상||국립공원공단|22년 12월|
+|장려상|2022 데이터 청년 캠퍼스|한국데이터산업진흥원|22년 9월|
+|대상|빅리더 AI 아카데미|경남대학교|22년 8월|
+|총장상||성공회대학교|22년 8월|
+|최우수상|GoodWin Incubating 창업 동아리|성공회대학교|21년 12월|
+|장려상|제12회 IT 경진대회|성공회대학교|21년 11월|
+|저학년트랙 2위|제12회 소프트웨어학과 경진대회|성공회대학교|20년 5월|
+|장려상|제9회 IT 경진대회|성공회대학교|18년 11월|
+
+## 2. 활동
+   
+|활동명|시작|끝|
