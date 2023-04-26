@@ -42,3 +42,4 @@
 |실시간 지문자 수어<br>인식 시스템|`Ubuntu`, `Tensorflow`, `OpenPose`, `MediaPipe`, `LeNet-5`, `Data: Image`, `Task: Classification`|
 |Air Alarm|`SwiftUI`, `Flask`, `SQLite3`, `STM32`, `Rasberry PI`|
 |A/S실 장비 대여 예약<br>웹 서비스|`Spring Boot`, `Spring Security`, `Mybatis`, `MySQL`, `Maven`, `Vue.js`|
+|부캠 5기<br> 문장 간 유사도 측정|`Git`, `Notion`, `Ubuntu`, `GPU V100`, `Pytorch Lightning`, `Wandb`|
