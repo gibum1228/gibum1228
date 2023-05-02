@@ -37,7 +37,7 @@
 
 |프로젝트명|기술스택|
 |:--:|:--:|
-|부캠 5기<br> 문장 간 유사도 측정|`Git`, `Notion`, `Ubuntu`, `GPU V100`, `Pytorch Lightning`, `Wandb`|
+|부캠 5기<br> 문장 간 유사도 측정|`Git`, `Notion`, `Ubuntu`, `Pytorch Lightning`, `Wandb`|
 |상추 생육 환경<br>생성 AI 경진대회|`AutoML`, `CTGAN`, `Data: Tabular`, `Task: Regression`|
 |국립공원공단<br>협업 프로젝트|`Django`, `QGIS`, `Data: TimeSeries`, `Task: Regression`|
 |실시간 지문자 수어<br>인식 시스템|`Ubuntu`, `Tensorflow`, `OpenPose`, `MediaPipe`, `LeNet-5`, `Data: Image`, `Task: Classification`|
