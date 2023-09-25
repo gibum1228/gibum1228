@@ -1,7 +1,7 @@
 # 김기범 | Profile
    
 안녕하세요. 함께 일하고 싶은 동료 김기범입니다!✋<br>
-대표적인 프로젝트, 수상, 활동 내역을 간단하게 적었는데 좀 더 상세한 정보는 **gibum1228@gmail.com**으로 메일 보내주세요!😄<br>
+대표적인 프로젝트, 수상, 활동 내역을 간단하게 적었는데 좀 더 상세한 정보가 궁금하시다면 **gibum1228@gmail.com**으로 연락주세요.<br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gibum1228&row=1&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
